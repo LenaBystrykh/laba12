@@ -1,0 +1,10 @@
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab12\Lab12\bin\Debug\Lab10for12.exe
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab12\Lab12\bin\Debug\Lab10for12.pdb
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab12\Lab12\bin\Debug\Lab10for12.exe.config
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab12\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab12\Lab12\obj\Debug\Lab12.csproj.CopyComplete
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab12\Lab12\obj\Debug\Lab12.pdb
